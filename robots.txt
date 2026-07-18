@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaozimei.github.io/hongtaojiesh/sitemap.xml
